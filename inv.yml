@@ -1,0 +1,16 @@
+[qaserver]
+34.239.227.211
+ 
+[devserver]
+44.204.29.7
+
+#[children: devqa]
+# qaserver
+# devserver
+
+
+[qaserver:vars]
+#ansible_ssh_user=centos
+
+[all:vars]
+ansible_ssh_private_key_file=/home/ec2-user/keypair.pem
