@@ -1,0 +1,12 @@
+---
+# tasks file for apache
+- name: install Apache
+  yum:
+   name: "{{ pkg_name }}"
+   state: present
+- name: copy index file
+  copy:
+   src: files/index.html
+   dest: "{{ dest_folder }}"
+   remote_src: no
+   

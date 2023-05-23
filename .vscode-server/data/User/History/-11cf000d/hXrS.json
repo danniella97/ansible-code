@@ -1,0 +1,13 @@
+{
+    "editor.accessibilitySupport": "off",
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 3,
+    "remote.SSH.remotePlatform": {
+        "ansible": "linux"
+    }
+}

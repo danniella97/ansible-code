@@ -1,0 +1,611 @@
+2023-05-23 19:03:26.712 [info] Log level: Info
+2023-05-23 19:03:26.712 [info] Validating found git in: "git"
+2023-05-23 19:03:26.712 [info] Using git "2.39.2" from "git"
+2023-05-23 19:03:26.712 [info] > git rev-parse --show-toplevel [116ms]
+2023-05-23 19:03:26.712 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:03:26.712 [info] > git rev-parse --show-toplevel [3ms]
+2023-05-23 19:03:26.712 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:03:26.712 [info] > git rev-parse --show-toplevel [3ms]
+2023-05-23 19:03:26.712 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:03:26.712 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-23 19:03:26.712 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:03:26.712 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-23 19:03:26.712 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:03:26.712 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-23 19:03:26.712 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:03:26.712 [info] > git rev-parse --show-toplevel [0ms]
+2023-05-23 19:03:26.712 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:03:30.541 [info] > git rev-parse --show-toplevel [6ms]
+2023-05-23 19:03:30.541 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:03:33.817 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-23 19:03:33.817 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:03:34.810 [info] > git rev-parse --show-toplevel [3ms]
+2023-05-23 19:03:34.810 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:03:35.390 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-23 19:03:35.390 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:08:54.210 [info] > git rev-parse --show-toplevel [11ms]
+2023-05-23 19:08:54.210 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:14:55.546 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-23 19:14:55.546 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:17:55.672 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-23 19:17:55.672 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:18:15.620 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-23 19:18:15.620 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:20:19.042 [info] > git rev-parse --show-toplevel [3ms]
+2023-05-23 19:20:19.042 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:22:39.077 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-23 19:22:39.077 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:24:06.880 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-23 19:24:06.880 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:24:18.481 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-23 19:24:18.481 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:27:31.430 [info] > git rev-parse --show-toplevel [5ms]
+2023-05-23 19:27:31.431 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:29:37.494 [info] > git rev-parse --show-toplevel [10ms]
+2023-05-23 19:29:37.494 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:36:44.754 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-23 19:36:44.754 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:39:12.473 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-23 19:39:12.473 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:39:52.923 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-23 19:39:52.923 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:46:24.856 [info] > git rev-parse --show-toplevel [6ms]
+2023-05-23 19:46:24.856 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 19:47:05.886 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-23 19:47:05.886 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:06:02.884 [info] > git rev-parse --show-toplevel [13ms]
+2023-05-23 20:06:02.884 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:06:36.166 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-23 20:06:36.166 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:07:40.300 [info] > git rev-parse --show-toplevel [4ms]
+2023-05-23 20:07:40.300 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:20:50.373 [info] > git rev-parse --show-toplevel [3ms]
+2023-05-23 20:20:50.373 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:20:50.528 [info] > git rev-parse --show-toplevel [12ms]
+2023-05-23 20:20:50.530 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:25:22.393 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-23 20:25:22.393 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:37:35.689 [info] > git rev-parse --show-toplevel [3ms]
+2023-05-23 20:37:35.690 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:38:12.343 [info] > git rev-parse --show-toplevel [3ms]
+2023-05-23 20:38:12.343 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:46:07.146 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-23 20:46:07.146 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:48:15.981 [info] > git rev-parse --show-toplevel [3ms]
+2023-05-23 20:48:15.981 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:48:20.812 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-23 20:48:20.812 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:49:07.928 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-23 20:49:07.928 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:50:14.982 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-23 20:50:14.982 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:50:37.406 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-23 20:50:37.406 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:51:15.837 [info] > git rev-parse --show-toplevel [2ms]
+2023-05-23 20:51:15.837 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 20:51:35.509 [info] > git rev-parse --show-toplevel [3ms]
+2023-05-23 20:51:35.509 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-05-23 21:01:40.042 [info] > git rev-parse --show-toplevel [1ms]
+2023-05-23 21:01:40.048 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-05-23 21:01:40.063 [info] Open repository: /home/ec2-user
+2023-05-23 21:01:40.087 [info] No remotes found in the git config file.
+2023-05-23 21:01:40.090 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-05-23 21:01:40.093 [info] > git config --get commit.template [13ms]
+2023-05-23 21:01:40.184 [info] > git status -z -uall [84ms]
+2023-05-23 21:01:40.233 [info] No remotes found in the git config file.
+2023-05-23 21:01:40.234 [info] > git config --get commit.template [4ms]
+2023-05-23 21:01:40.234 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:01:40.250 [info] > git status -z -uall [11ms]
+2023-05-23 21:01:40.688 [info] > git check-ignore -v -z --stdin [7ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :play.yml [103ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :inv.yml [99ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :ansible.cfg [94ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :roles/apache/defaults/main.yml [90ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :roles/apache/handlers/main.yml [85ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :roles/apache/meta/main.yml [81ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :roles/apache/tasks/main.yml [77ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :roles/apache/vars/main.yml [72ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :roles/apache/files/index.html [68ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :roles/java/meta/main.yml [64ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :roles/java/tasks/main.yml [60ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :roles/java/vars/Amazon.yml [56ms]
+2023-05-23 21:01:41.081 [info] > git show --textconv :roles/java/vars/Debian-8.yml [53ms]
+2023-05-23 21:01:41.082 [info] > git ls-files --stage -- /home/ec2-user/roles/java/vars/Amazon.yml [7ms]
+2023-05-23 21:01:41.083 [info] > git ls-files --stage -- /home/ec2-user/roles/java/tasks/main.yml [12ms]
+2023-05-23 21:01:41.083 [info] > git ls-files --stage -- /home/ec2-user/roles/java/meta/main.yml [15ms]
+2023-05-23 21:01:41.084 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/files/index.html [20ms]
+2023-05-23 21:01:41.084 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/vars/main.yml [24ms]
+2023-05-23 21:01:41.084 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/tasks/main.yml [27ms]
+2023-05-23 21:01:41.085 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/meta/main.yml [32ms]
+2023-05-23 21:01:41.085 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/handlers/main.yml [36ms]
+2023-05-23 21:01:41.085 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/defaults/main.yml [40ms]
+2023-05-23 21:01:41.086 [info] > git ls-files --stage -- /home/ec2-user/ansible.cfg [47ms]
+2023-05-23 21:01:41.086 [info] > git ls-files --stage -- /home/ec2-user/inv.yml [50ms]
+2023-05-23 21:01:41.086 [info] > git ls-files --stage -- /home/ec2-user/play.yml [54ms]
+2023-05-23 21:01:41.089 [info] > git ls-files --stage -- /home/ec2-user/roles/java/vars/Debian-8.yml [10ms]
+2023-05-23 21:01:44.510 [info] No remotes found in the git config file.
+2023-05-23 21:01:44.511 [info] > git config --get commit.template [13ms]
+2023-05-23 21:01:44.511 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:01:44.561 [info] > git status -z -uall [45ms]
+2023-05-23 21:01:49.626 [info] No remotes found in the git config file.
+2023-05-23 21:01:49.627 [info] > git config --get commit.template [6ms]
+2023-05-23 21:01:49.627 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:01:49.675 [info] > git status -z -uall [43ms]
+2023-05-23 21:01:54.825 [info] > git config --get commit.template [33ms]
+2023-05-23 21:01:54.833 [info] No remotes found in the git config file.
+2023-05-23 21:01:54.850 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2023-05-23 21:01:54.877 [info] > git status -z -uall [20ms]
+2023-05-23 21:01:59.922 [info] No remotes found in the git config file.
+2023-05-23 21:01:59.923 [info] > git config --get commit.template [8ms]
+2023-05-23 21:01:59.923 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:01:59.945 [info] > git status -z -uall [18ms]
+2023-05-23 21:02:04.983 [info] No remotes found in the git config file.
+2023-05-23 21:02:04.984 [info] > git config --get commit.template [7ms]
+2023-05-23 21:02:04.984 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:02:05.005 [info] > git status -z -uall [16ms]
+2023-05-23 21:02:10.090 [info] No remotes found in the git config file.
+2023-05-23 21:02:10.097 [info] > git config --get commit.template [16ms]
+2023-05-23 21:02:10.098 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-05-23 21:02:10.114 [info] > git status -z -uall [11ms]
+2023-05-23 21:02:15.162 [info] No remotes found in the git config file.
+2023-05-23 21:02:15.167 [info] > git config --get commit.template [19ms]
+2023-05-23 21:02:15.169 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-05-23 21:02:15.195 [info] > git status -z -uall [14ms]
+2023-05-23 21:02:20.261 [info] No remotes found in the git config file.
+2023-05-23 21:02:20.263 [info] > git config --get commit.template [13ms]
+2023-05-23 21:02:20.263 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-05-23 21:02:20.308 [info] > git status -z -uall [34ms]
+2023-05-23 21:02:25.353 [info] No remotes found in the git config file.
+2023-05-23 21:02:25.354 [info] > git config --get commit.template [11ms]
+2023-05-23 21:02:25.355 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:02:25.373 [info] > git status -z -uall [13ms]
+2023-05-23 21:02:30.416 [info] No remotes found in the git config file.
+2023-05-23 21:02:30.419 [info] > git config --get commit.template [14ms]
+2023-05-23 21:02:30.419 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-05-23 21:02:30.461 [info] > git status -z -uall [31ms]
+2023-05-23 21:02:35.510 [info] No remotes found in the git config file.
+2023-05-23 21:02:35.510 [info] > git config --get commit.template [6ms]
+2023-05-23 21:02:35.511 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:02:35.527 [info] > git status -z -uall [11ms]
+2023-05-23 21:02:40.566 [info] No remotes found in the git config file.
+2023-05-23 21:02:40.566 [info] > git config --get commit.template [7ms]
+2023-05-23 21:02:40.567 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:02:40.581 [info] > git status -z -uall [10ms]
+2023-05-23 21:02:45.628 [info] No remotes found in the git config file.
+2023-05-23 21:02:45.629 [info] > git config --get commit.template [14ms]
+2023-05-23 21:02:45.631 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-05-23 21:02:45.666 [info] > git status -z -uall [20ms]
+2023-05-23 21:03:08.781 [info] No remotes found in the git config file.
+2023-05-23 21:03:08.782 [info] > git config --get commit.template [8ms]
+2023-05-23 21:03:08.783 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:03:08.819 [info] > git status -z -uall [31ms]
+2023-05-23 21:03:13.910 [info] No remotes found in the git config file.
+2023-05-23 21:03:13.911 [info] > git config --get commit.template [6ms]
+2023-05-23 21:03:13.912 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:03:13.943 [info] > git status -z -uall [23ms]
+2023-05-23 21:03:18.995 [info] No remotes found in the git config file.
+2023-05-23 21:03:18.996 [info] > git config --get commit.template [10ms]
+2023-05-23 21:03:18.996 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:03:19.016 [info] > git status -z -uall [13ms]
+2023-05-23 21:03:24.081 [info] No remotes found in the git config file.
+2023-05-23 21:03:24.085 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-05-23 21:03:24.085 [info] > git config --get commit.template [35ms]
+2023-05-23 21:03:24.146 [info] > git status -z -uall [43ms]
+2023-05-23 21:03:29.219 [info] No remotes found in the git config file.
+2023-05-23 21:03:29.220 [info] > git config --get commit.template [6ms]
+2023-05-23 21:03:29.220 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:03:29.237 [info] > git status -z -uall [13ms]
+2023-05-23 21:03:34.274 [info] No remotes found in the git config file.
+2023-05-23 21:03:34.277 [info] > git config --get commit.template [8ms]
+2023-05-23 21:03:34.277 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-05-23 21:03:34.294 [info] > git status -z -uall [11ms]
+2023-05-23 21:03:39.342 [info] No remotes found in the git config file.
+2023-05-23 21:03:39.344 [info] > git config --get commit.template [7ms]
+2023-05-23 21:03:39.344 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:03:39.401 [info] > git status -z -uall [47ms]
+2023-05-23 21:03:40.530 [info] > git check-ignore -v -z --stdin [1ms]
+2023-05-23 21:03:41.144 [info] > git check-ignore -v -z --stdin [2ms]
+2023-05-23 21:03:42.816 [info] > git show --textconv :roles/java/.gitignore [11ms]
+2023-05-23 21:03:42.817 [info] > git ls-files --stage -- /home/ec2-user/roles/java/.gitignore [2ms]
+2023-05-23 21:03:44.466 [info] No remotes found in the git config file.
+2023-05-23 21:03:44.467 [info] > git config --get commit.template [6ms]
+2023-05-23 21:03:44.468 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:03:44.488 [info] > git status -z -uall [16ms]
+2023-05-23 21:03:49.523 [info] No remotes found in the git config file.
+2023-05-23 21:03:49.525 [info] > git config --get commit.template [7ms]
+2023-05-23 21:03:49.525 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-05-23 21:03:49.540 [info] > git status -z -uall [11ms]
+2023-05-23 21:03:54.580 [info] No remotes found in the git config file.
+2023-05-23 21:03:54.581 [info] > git config --get commit.template [9ms]
+2023-05-23 21:03:54.581 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:03:54.598 [info] > git status -z -uall [11ms]
+2023-05-23 21:03:55.117 [info] > git check-ignore -v -z --stdin [3ms]
+2023-05-23 21:03:59.646 [info] No remotes found in the git config file.
+2023-05-23 21:03:59.651 [info] > git config --get commit.template [15ms]
+2023-05-23 21:03:59.652 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-05-23 21:03:59.686 [info] > git status -z -uall [26ms]
+2023-05-23 21:04:04.727 [info] No remotes found in the git config file.
+2023-05-23 21:04:04.728 [info] > git config --get commit.template [6ms]
+2023-05-23 21:04:04.728 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:04:04.792 [info] > git status -z -uall [59ms]
+2023-05-23 21:04:09.832 [info] > git config --get commit.template [2ms]
+2023-05-23 21:04:09.865 [info] No remotes found in the git config file.
+2023-05-23 21:04:09.904 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [42ms]
+2023-05-23 21:04:09.941 [info] > git status -z -uall [31ms]
+2023-05-23 21:04:14.985 [info] No remotes found in the git config file.
+2023-05-23 21:04:14.986 [info] > git config --get commit.template [6ms]
+2023-05-23 21:04:14.986 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:04:15.002 [info] > git status -z -uall [11ms]
+2023-05-23 21:04:18.409 [info] > git check-ignore -v -z --stdin [2ms]
+2023-05-23 21:04:20.040 [info] No remotes found in the git config file.
+2023-05-23 21:04:20.042 [info] > git config --get commit.template [7ms]
+2023-05-23 21:04:20.042 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:04:20.060 [info] > git status -z -uall [14ms]
+2023-05-23 21:04:25.091 [info] No remotes found in the git config file.
+2023-05-23 21:04:25.092 [info] > git config --get commit.template [8ms]
+2023-05-23 21:04:25.092 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:04:25.110 [info] > git status -z -uall [12ms]
+2023-05-23 21:04:30.149 [info] No remotes found in the git config file.
+2023-05-23 21:04:30.150 [info] > git config --get commit.template [7ms]
+2023-05-23 21:04:30.150 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:04:30.169 [info] > git status -z -uall [14ms]
+2023-05-23 21:04:35.199 [info] No remotes found in the git config file.
+2023-05-23 21:04:35.200 [info] > git config --get commit.template [6ms]
+2023-05-23 21:04:35.200 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:04:35.232 [info] > git status -z -uall [28ms]
+2023-05-23 21:04:38.744 [info] > git check-ignore -v -z --stdin [2ms]
+2023-05-23 21:04:40.815 [info] > git check-ignore -v -z --stdin [2ms]
+2023-05-23 21:04:42.685 [info] No remotes found in the git config file.
+2023-05-23 21:04:42.686 [info] > git config --get commit.template [7ms]
+2023-05-23 21:04:42.686 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:04:42.705 [info] > git status -z -uall [13ms]
+2023-05-23 21:04:47.740 [info] No remotes found in the git config file.
+2023-05-23 21:04:47.741 [info] > git config --get commit.template [7ms]
+2023-05-23 21:04:47.746 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2023-05-23 21:04:47.766 [info] > git status -z -uall [10ms]
+2023-05-23 21:04:52.809 [info] No remotes found in the git config file.
+2023-05-23 21:04:52.809 [info] > git config --get commit.template [9ms]
+2023-05-23 21:04:52.810 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:04:52.825 [info] > git status -z -uall [10ms]
+2023-05-23 21:04:57.854 [info] No remotes found in the git config file.
+2023-05-23 21:04:57.855 [info] > git config --get commit.template [7ms]
+2023-05-23 21:04:57.855 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:04:57.870 [info] > git status -z -uall [10ms]
+2023-05-23 21:05:02.914 [info] > git config --get commit.template [19ms]
+2023-05-23 21:05:02.951 [info] No remotes found in the git config file.
+2023-05-23 21:05:02.971 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+2023-05-23 21:05:02.988 [info] > git status -z -uall [13ms]
+2023-05-23 21:05:08.025 [info] No remotes found in the git config file.
+2023-05-23 21:05:08.026 [info] > git config --get commit.template [7ms]
+2023-05-23 21:05:08.026 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:05:08.043 [info] > git status -z -uall [11ms]
+2023-05-23 21:05:13.696 [info] No remotes found in the git config file.
+2023-05-23 21:05:13.697 [info] > git config --get commit.template [7ms]
+2023-05-23 21:05:13.697 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:05:13.713 [info] > git status -z -uall [11ms]
+2023-05-23 21:05:18.775 [info] No remotes found in the git config file.
+2023-05-23 21:05:18.778 [info] > git config --get commit.template [34ms]
+2023-05-23 21:05:18.778 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-05-23 21:05:18.837 [info] > git status -z -uall [37ms]
+2023-05-23 21:05:19.453 [info] > git check-ignore -v -z --stdin [3ms]
+2023-05-23 21:05:23.957 [info] No remotes found in the git config file.
+2023-05-23 21:05:23.960 [info] > git config --get commit.template [14ms]
+2023-05-23 21:05:23.960 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-05-23 21:05:23.982 [info] > git status -z -uall [11ms]
+2023-05-23 21:05:29.030 [info] No remotes found in the git config file.
+2023-05-23 21:05:29.031 [info] > git config --get commit.template [6ms]
+2023-05-23 21:05:29.032 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:05:29.048 [info] > git status -z -uall [12ms]
+2023-05-23 21:05:48.086 [info] No remotes found in the git config file.
+2023-05-23 21:05:48.087 [info] > git config --get commit.template [7ms]
+2023-05-23 21:05:48.087 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:05:48.104 [info] > git status -z -uall [12ms]
+2023-05-23 21:05:53.158 [info] No remotes found in the git config file.
+2023-05-23 21:05:53.159 [info] > git config --get commit.template [13ms]
+2023-05-23 21:05:53.160 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-05-23 21:05:53.179 [info] > git status -z -uall [14ms]
+2023-05-23 21:05:58.217 [info] No remotes found in the git config file.
+2023-05-23 21:05:58.218 [info] > git config --get commit.template [7ms]
+2023-05-23 21:05:58.218 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:05:58.234 [info] > git status -z -uall [11ms]
+2023-05-23 21:06:03.281 [info] No remotes found in the git config file.
+2023-05-23 21:06:03.283 [info] > git config --get commit.template [16ms]
+2023-05-23 21:06:03.284 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-05-23 21:06:03.324 [info] > git status -z -uall [28ms]
+2023-05-23 21:06:08.582 [info] > git config --get commit.template [1ms]
+2023-05-23 21:06:08.596 [info] No remotes found in the git config file.
+2023-05-23 21:06:08.597 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:06:08.622 [info] > git status -z -uall [18ms]
+2023-05-23 21:06:13.685 [info] No remotes found in the git config file.
+2023-05-23 21:06:13.687 [info] > git config --get commit.template [9ms]
+2023-05-23 21:06:13.687 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-05-23 21:06:13.705 [info] > git status -z -uall [14ms]
+2023-05-23 21:06:28.646 [info] No remotes found in the git config file.
+2023-05-23 21:06:28.647 [info] > git config --get commit.template [21ms]
+2023-05-23 21:06:28.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:06:28.854 [info] > git status -z -uall [196ms]
+2023-05-23 21:06:28.858 [info] > git ls-files --stage -- /home/ec2-user/roles/java/vars/Debian-8.yml [19ms]
+2023-05-23 21:06:28.868 [info] > git ls-files --stage -- /home/ec2-user/roles/java/vars/Amazon.yml [44ms]
+2023-05-23 21:06:28.879 [info] > git ls-files --stage -- /home/ec2-user/roles/java/tasks/main.yml [67ms]
+2023-05-23 21:06:28.884 [info] > git ls-files --stage -- /home/ec2-user/roles/java/meta/main.yml [83ms]
+2023-05-23 21:06:28.888 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/files/index.html [92ms]
+2023-05-23 21:06:28.893 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/vars/main.yml [118ms]
+2023-05-23 21:06:28.897 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/tasks/main.yml [137ms]
+2023-05-23 21:06:28.901 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/meta/main.yml [150ms]
+2023-05-23 21:06:28.905 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/handlers/main.yml [163ms]
+2023-05-23 21:06:28.909 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/defaults/main.yml [177ms]
+2023-05-23 21:06:28.913 [info] > git ls-files --stage -- /home/ec2-user/ansible.cfg [194ms]
+2023-05-23 21:06:28.918 [info] > git ls-files --stage -- /home/ec2-user/inv.yml [208ms]
+2023-05-23 21:06:28.921 [info] > git ls-files --stage -- /home/ec2-user/play.yml [225ms]
+2023-05-23 21:06:28.964 [info] > git cat-file -s 3079d7484ef2e0f635b361f8d24a3542f9ddc84c [39ms]
+2023-05-23 21:06:28.965 [info] > git cat-file -s d10f0085eea9fbed6c8a332d232ce08eb08e9999 [44ms]
+2023-05-23 21:06:28.965 [info] > git cat-file -s c1dd31d040810c7e3f614dfa38f8a74c8043fede [48ms]
+2023-05-23 21:06:28.965 [info] > git cat-file -s f5299ef36842434161cfb1d82cad1e1781974a2f [52ms]
+2023-05-23 21:06:28.966 [info] > git cat-file -s 6d68187958ce3f879d5ea090b11bb1a55643af3b [57ms]
+2023-05-23 21:06:28.966 [info] > git cat-file -s 8eb7e977e3cac905f892edca16ce03345a7008e0 [62ms]
+2023-05-23 21:06:28.966 [info] > git cat-file -s 14c9df7dec9955523e96c395833570108ca1bf9c [66ms]
+2023-05-23 21:06:28.967 [info] > git cat-file -s 80445151ce75f53af9bc80a4ffc313d45d5841a0 [70ms]
+2023-05-23 21:06:28.967 [info] > git cat-file -s ad62d9d8618152d56e3f61f89bac66515050588f [75ms]
+2023-05-23 21:06:28.967 [info] > git cat-file -s 5f63787ae6758a50ee57908bad30e7c9af6c3692 [79ms]
+2023-05-23 21:06:28.967 [info] > git cat-file -s 9dda1163f2a8b31eed8196708a809916f9ae4834 [83ms]
+2023-05-23 21:06:28.968 [info] > git cat-file -s fd65f3407db8b769cdcba8f3721720a9c389bd91 [90ms]
+2023-05-23 21:06:28.968 [info] > git cat-file -s 8d620e47a65434c2124d00f1ed75ba71f28465a1 [101ms]
+2023-05-23 21:06:28.968 [info] > git ls-files --stage -- /home/ec2-user/roles/java/.gitignore [122ms]
+2023-05-23 21:06:28.974 [info] > git cat-file -s bb3860c448a9aa91f53ecb946209a1039898e228 [1ms]
+2023-05-23 21:06:29.416 [info] > git show --textconv :play.yml [93ms]
+2023-05-23 21:06:29.417 [info] > git show --textconv :inv.yml [84ms]
+2023-05-23 21:06:29.417 [info] > git show --textconv :ansible.cfg [76ms]
+2023-05-23 21:06:29.417 [info] > git show --textconv :roles/apache/defaults/main.yml [62ms]
+2023-05-23 21:06:29.417 [info] > git show --textconv :roles/apache/handlers/main.yml [56ms]
+2023-05-23 21:06:29.417 [info] > git show --textconv :roles/apache/meta/main.yml [35ms]
+2023-05-23 21:06:29.418 [info] > git show --textconv :roles/apache/tasks/main.yml [30ms]
+2023-05-23 21:06:29.418 [info] > git show --textconv :roles/apache/vars/main.yml [25ms]
+2023-05-23 21:06:29.418 [info] > git show --textconv :roles/apache/files/index.html [21ms]
+2023-05-23 21:06:29.418 [info] > git show --textconv :roles/java/meta/main.yml [17ms]
+2023-05-23 21:06:29.418 [info] > git show --textconv :roles/java/tasks/main.yml [12ms]
+2023-05-23 21:06:29.418 [info] > git show --textconv :roles/java/vars/Amazon.yml [8ms]
+2023-05-23 21:06:29.421 [info] > git show --textconv :roles/java/vars/Debian-8.yml [7ms]
+2023-05-23 21:06:29.436 [info] > git show --textconv :roles/java/.gitignore [10ms]
+2023-05-23 21:06:33.714 [info] > git ls-files --stage -- /home/ec2-user/roles/java/vars/Debian-8.yml [20ms]
+2023-05-23 21:06:33.731 [info] > git ls-files --stage -- /home/ec2-user/roles/java/vars/Amazon.yml [45ms]
+2023-05-23 21:06:33.744 [info] > git ls-files --stage -- /home/ec2-user/roles/java/tasks/main.yml [63ms]
+2023-05-23 21:06:33.753 [info] > git ls-files --stage -- /home/ec2-user/roles/java/meta/main.yml [76ms]
+2023-05-23 21:06:33.770 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/files/index.html [98ms]
+2023-05-23 21:06:33.778 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/vars/main.yml [111ms]
+2023-05-23 21:06:33.790 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/tasks/main.yml [127ms]
+2023-05-23 21:06:33.805 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/meta/main.yml [145ms]
+2023-05-23 21:06:33.817 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/handlers/main.yml [162ms]
+2023-05-23 21:06:33.822 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/defaults/main.yml [172ms]
+2023-05-23 21:06:33.830 [info] > git ls-files --stage -- /home/ec2-user/ansible.cfg [184ms]
+2023-05-23 21:06:33.836 [info] > git ls-files --stage -- /home/ec2-user/inv.yml [194ms]
+2023-05-23 21:06:33.840 [info] > git ls-files --stage -- /home/ec2-user/play.yml [203ms]
+2023-05-23 21:06:33.847 [info] > git cat-file -s d10f0085eea9fbed6c8a332d232ce08eb08e9999 [7ms]
+2023-05-23 21:06:33.848 [info] > git cat-file -s c1dd31d040810c7e3f614dfa38f8a74c8043fede [13ms]
+2023-05-23 21:06:33.849 [info] > git cat-file -s f5299ef36842434161cfb1d82cad1e1781974a2f [20ms]
+2023-05-23 21:06:33.849 [info] > git cat-file -s 6d68187958ce3f879d5ea090b11bb1a55643af3b [27ms]
+2023-05-23 21:06:33.849 [info] > git cat-file -s 8eb7e977e3cac905f892edca16ce03345a7008e0 [32ms]
+2023-05-23 21:06:33.850 [info] > git cat-file -s 14c9df7dec9955523e96c395833570108ca1bf9c [46ms]
+2023-05-23 21:06:33.850 [info] > git cat-file -s 80445151ce75f53af9bc80a4ffc313d45d5841a0 [60ms]
+2023-05-23 21:06:33.850 [info] > git cat-file -s ad62d9d8618152d56e3f61f89bac66515050588f [73ms]
+2023-05-23 21:06:33.850 [info] > git cat-file -s 5f63787ae6758a50ee57908bad30e7c9af6c3692 [81ms]
+2023-05-23 21:06:33.851 [info] > git cat-file -s 9dda1163f2a8b31eed8196708a809916f9ae4834 [99ms]
+2023-05-23 21:06:33.851 [info] > git cat-file -s fd65f3407db8b769cdcba8f3721720a9c389bd91 [107ms]
+2023-05-23 21:06:33.851 [info] > git cat-file -s 8d620e47a65434c2124d00f1ed75ba71f28465a1 [124ms]
+2023-05-23 21:06:33.852 [info] > git ls-files --stage -- /home/ec2-user/roles/java/.gitignore [142ms]
+2023-05-23 21:06:33.857 [info] > git cat-file -s 3079d7484ef2e0f635b361f8d24a3542f9ddc84c [13ms]
+2023-05-23 21:06:33.858 [info] > git cat-file -s bb3860c448a9aa91f53ecb946209a1039898e228 [2ms]
+2023-05-23 21:06:33.969 [info] > git show --textconv :inv.yml [58ms]
+2023-05-23 21:06:33.969 [info] > git show --textconv :ansible.cfg [53ms]
+2023-05-23 21:06:33.969 [info] > git show --textconv :roles/apache/defaults/main.yml [48ms]
+2023-05-23 21:06:33.969 [info] > git show --textconv :roles/apache/handlers/main.yml [44ms]
+2023-05-23 21:06:33.969 [info] > git show --textconv :roles/apache/meta/main.yml [39ms]
+2023-05-23 21:06:33.969 [info] > git show --textconv :roles/apache/tasks/main.yml [35ms]
+2023-05-23 21:06:33.969 [info] > git show --textconv :roles/apache/vars/main.yml [29ms]
+2023-05-23 21:06:33.969 [info] > git show --textconv :roles/apache/files/index.html [24ms]
+2023-05-23 21:06:33.970 [info] > git show --textconv :roles/java/meta/main.yml [21ms]
+2023-05-23 21:06:33.970 [info] > git show --textconv :roles/java/tasks/main.yml [17ms]
+2023-05-23 21:06:33.970 [info] > git show --textconv :roles/java/vars/Amazon.yml [12ms]
+2023-05-23 21:06:33.970 [info] > git show --textconv :roles/java/vars/Debian-8.yml [8ms]
+2023-05-23 21:06:33.973 [info] > git config --get commit.template [5ms]
+2023-05-23 21:06:33.993 [info] > git show --textconv :play.yml [15ms]
+2023-05-23 21:06:34.002 [info] No remotes found in the git config file.
+2023-05-23 21:06:34.003 [info] > git show --textconv :roles/java/.gitignore [10ms]
+2023-05-23 21:06:34.003 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:06:34.025 [info] > git status -z -uall [17ms]
+2023-05-23 21:06:39.060 [info] No remotes found in the git config file.
+2023-05-23 21:06:39.062 [info] > git config --get commit.template [9ms]
+2023-05-23 21:06:39.062 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:06:39.085 [info] > git status -z -uall [18ms]
+2023-05-23 21:06:44.134 [info] No remotes found in the git config file.
+2023-05-23 21:06:44.135 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:06:44.135 [info] > git config --get commit.template [6ms]
+2023-05-23 21:06:44.155 [info] > git status -z -uall [14ms]
+2023-05-23 21:06:49.191 [info] No remotes found in the git config file.
+2023-05-23 21:06:49.192 [info] > git config --get commit.template [6ms]
+2023-05-23 21:06:49.192 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:06:49.213 [info] > git status -z -uall [17ms]
+2023-05-23 21:06:54.251 [info] No remotes found in the git config file.
+2023-05-23 21:06:54.252 [info] > git config --get commit.template [7ms]
+2023-05-23 21:06:54.252 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:06:54.275 [info] > git status -z -uall [15ms]
+2023-05-23 21:07:02.121 [info] No remotes found in the git config file.
+2023-05-23 21:07:02.122 [info] > git config --get commit.template [8ms]
+2023-05-23 21:07:02.122 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:07:02.152 [info] > git status -z -uall [23ms]
+2023-05-23 21:07:07.252 [info] No remotes found in the git config file.
+2023-05-23 21:07:07.256 [info] > git config --get commit.template [8ms]
+2023-05-23 21:07:07.256 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-05-23 21:07:07.274 [info] > git status -z -uall [13ms]
+2023-05-23 21:07:12.308 [info] No remotes found in the git config file.
+2023-05-23 21:07:12.309 [info] > git config --get commit.template [6ms]
+2023-05-23 21:07:12.310 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:07:12.330 [info] > git status -z -uall [15ms]
+2023-05-23 21:07:17.379 [info] No remotes found in the git config file.
+2023-05-23 21:07:17.380 [info] > git config --get commit.template [11ms]
+2023-05-23 21:07:17.380 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:07:17.424 [info] > git status -z -uall [38ms]
+2023-05-23 21:07:20.014 [info] > git check-ignore -v -z --stdin [2ms]
+2023-05-23 21:07:21.312 [info] > git check-ignore -v -z --stdin [3ms]
+2023-05-23 21:07:22.489 [info] No remotes found in the git config file.
+2023-05-23 21:07:22.491 [info] > git config --get commit.template [16ms]
+2023-05-23 21:07:22.493 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-05-23 21:07:22.530 [info] > git status -z -uall [31ms]
+2023-05-23 21:07:27.594 [info] No remotes found in the git config file.
+2023-05-23 21:07:27.595 [info] > git config --get commit.template [10ms]
+2023-05-23 21:07:27.595 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:07:27.646 [info] > git status -z -uall [45ms]
+2023-05-23 21:07:29.411 [info] > git check-ignore -v -z --stdin [8ms]
+2023-05-23 21:07:32.702 [info] No remotes found in the git config file.
+2023-05-23 21:07:32.703 [info] > git config --get commit.template [6ms]
+2023-05-23 21:07:32.703 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:07:32.719 [info] > git status -z -uall [12ms]
+2023-05-23 21:07:34.281 [info] > git check-ignore -v -z --stdin [5ms]
+2023-05-23 21:07:37.781 [info] No remotes found in the git config file.
+2023-05-23 21:07:37.782 [info] > git config --get commit.template [6ms]
+2023-05-23 21:07:37.782 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:07:37.801 [info] > git status -z -uall [15ms]
+2023-05-23 21:07:42.752 [info] > git ls-files --stage -- /home/ec2-user/roles/java/vars/Debian-8.yml [9ms]
+2023-05-23 21:07:42.756 [info] > git ls-files --stage -- /home/ec2-user/roles/java/vars/Amazon.yml [18ms]
+2023-05-23 21:07:42.761 [info] > git ls-files --stage -- /home/ec2-user/roles/java/tasks/main.yml [26ms]
+2023-05-23 21:07:42.767 [info] > git ls-files --stage -- /home/ec2-user/roles/java/meta/main.yml [37ms]
+2023-05-23 21:07:42.771 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/files/index.html [46ms]
+2023-05-23 21:07:42.775 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/vars/main.yml [55ms]
+2023-05-23 21:07:42.780 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/tasks/main.yml [63ms]
+2023-05-23 21:07:42.784 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/meta/main.yml [74ms]
+2023-05-23 21:07:42.788 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/handlers/main.yml [83ms]
+2023-05-23 21:07:42.792 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/defaults/main.yml [93ms]
+2023-05-23 21:07:42.796 [info] > git ls-files --stage -- /home/ec2-user/ansible.cfg [109ms]
+2023-05-23 21:07:42.801 [info] > git ls-files --stage -- /home/ec2-user/inv.yml [125ms]
+2023-05-23 21:07:42.805 [info] > git ls-files --stage -- /home/ec2-user/play.yml [135ms]
+2023-05-23 21:07:42.810 [info] > git cat-file -s d10f0085eea9fbed6c8a332d232ce08eb08e9999 [5ms]
+2023-05-23 21:07:42.811 [info] > git cat-file -s c1dd31d040810c7e3f614dfa38f8a74c8043fede [11ms]
+2023-05-23 21:07:42.811 [info] > git cat-file -s f5299ef36842434161cfb1d82cad1e1781974a2f [15ms]
+2023-05-23 21:07:42.811 [info] > git cat-file -s 6d68187958ce3f879d5ea090b11bb1a55643af3b [19ms]
+2023-05-23 21:07:42.812 [info] > git cat-file -s 8eb7e977e3cac905f892edca16ce03345a7008e0 [25ms]
+2023-05-23 21:07:42.812 [info] > git cat-file -s 14c9df7dec9955523e96c395833570108ca1bf9c [29ms]
+2023-05-23 21:07:42.812 [info] > git cat-file -s 80445151ce75f53af9bc80a4ffc313d45d5841a0 [33ms]
+2023-05-23 21:07:42.813 [info] > git cat-file -s ad62d9d8618152d56e3f61f89bac66515050588f [37ms]
+2023-05-23 21:07:42.813 [info] > git cat-file -s 5f63787ae6758a50ee57908bad30e7c9af6c3692 [42ms]
+2023-05-23 21:07:42.813 [info] > git cat-file -s 9dda1163f2a8b31eed8196708a809916f9ae4834 [47ms]
+2023-05-23 21:07:42.814 [info] > git cat-file -s fd65f3407db8b769cdcba8f3721720a9c389bd91 [54ms]
+2023-05-23 21:07:42.814 [info] > git cat-file -s 8d620e47a65434c2124d00f1ed75ba71f28465a1 [58ms]
+2023-05-23 21:07:42.814 [info] > git ls-files --stage -- /home/ec2-user/roles/java/.gitignore [64ms]
+2023-05-23 21:07:42.820 [info] > git cat-file -s 3079d7484ef2e0f635b361f8d24a3542f9ddc84c [10ms]
+2023-05-23 21:07:42.821 [info] > git cat-file -s bb3860c448a9aa91f53ecb946209a1039898e228 [2ms]
+2023-05-23 21:07:42.847 [info] No remotes found in the git config file.
+2023-05-23 21:07:42.848 [info] > git config --get commit.template [6ms]
+2023-05-23 21:07:42.848 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:07:42.865 [info] > git status -z -uall [13ms]
+2023-05-23 21:07:43.192 [info] > git show --textconv :inv.yml [252ms]
+2023-05-23 21:07:43.192 [info] > git show --textconv :ansible.cfg [238ms]
+2023-05-23 21:07:43.192 [info] > git show --textconv :roles/apache/defaults/main.yml [227ms]
+2023-05-23 21:07:43.192 [info] > git show --textconv :roles/apache/handlers/main.yml [222ms]
+2023-05-23 21:07:43.192 [info] > git show --textconv :roles/apache/meta/main.yml [216ms]
+2023-05-23 21:07:43.192 [info] > git show --textconv :roles/apache/tasks/main.yml [211ms]
+2023-05-23 21:07:43.192 [info] > git show --textconv :roles/apache/vars/main.yml [206ms]
+2023-05-23 21:07:43.192 [info] > git show --textconv :roles/apache/files/index.html [201ms]
+2023-05-23 21:07:43.192 [info] > git show --textconv :roles/java/meta/main.yml [191ms]
+2023-05-23 21:07:43.192 [info] > git show --textconv :roles/java/tasks/main.yml [186ms]
+2023-05-23 21:07:43.192 [info] > git show --textconv :roles/java/vars/Amazon.yml [181ms]
+2023-05-23 21:07:43.192 [info] > git show --textconv :roles/java/vars/Debian-8.yml [175ms]
+2023-05-23 21:07:43.276 [info] > git show --textconv :play.yml [75ms]
+2023-05-23 21:07:43.276 [info] > git show --textconv :roles/java/.gitignore [17ms]
+2023-05-23 21:07:47.931 [info] No remotes found in the git config file.
+2023-05-23 21:07:47.932 [info] > git config --get commit.template [6ms]
+2023-05-23 21:07:47.933 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:07:47.949 [info] > git status -z -uall [12ms]
+2023-05-23 21:07:52.991 [info] No remotes found in the git config file.
+2023-05-23 21:07:52.997 [info] > git config --get commit.template [16ms]
+2023-05-23 21:07:52.998 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2023-05-23 21:07:53.053 [info] > git status -z -uall [33ms]
+2023-05-23 21:07:58.128 [info] No remotes found in the git config file.
+2023-05-23 21:07:58.129 [info] > git config --get commit.template [22ms]
+2023-05-23 21:07:58.129 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:07:58.161 [info] > git status -z -uall [24ms]
+2023-05-23 21:08:03.229 [info] No remotes found in the git config file.
+2023-05-23 21:08:03.230 [info] > git config --get commit.template [7ms]
+2023-05-23 21:08:03.230 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:08:03.247 [info] > git status -z -uall [13ms]
+2023-05-23 21:08:08.280 [info] No remotes found in the git config file.
+2023-05-23 21:08:08.280 [info] > git config --get commit.template [6ms]
+2023-05-23 21:08:08.281 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:08:08.306 [info] > git status -z -uall [21ms]
+2023-05-23 21:08:13.348 [info] No remotes found in the git config file.
+2023-05-23 21:08:13.349 [info] > git config --get commit.template [6ms]
+2023-05-23 21:08:13.349 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:08:13.441 [info] > git status -z -uall [87ms]
+2023-05-23 21:08:19.899 [info] > git config --get commit.template [1ms]
+2023-05-23 21:08:19.912 [info] No remotes found in the git config file.
+2023-05-23 21:08:19.919 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2023-05-23 21:08:19.957 [info] > git status -z -uall [23ms]
+2023-05-23 21:08:25.014 [info] > git config --get commit.template [10ms]
+2023-05-23 21:08:25.024 [info] No remotes found in the git config file.
+2023-05-23 21:08:25.025 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:08:25.043 [info] > git status -z -uall [13ms]
+2023-05-23 21:08:25.584 [info] > git check-ignore -v -z --stdin [2ms]
+2023-05-23 21:08:30.114 [info] No remotes found in the git config file.
+2023-05-23 21:08:30.118 [info] > git config --get commit.template [29ms]
+2023-05-23 21:08:30.119 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-05-23 21:08:30.208 [info] > git status -z -uall [65ms]
+2023-05-23 21:08:35.326 [info] > git config --get commit.template [4ms]
+2023-05-23 21:08:35.340 [info] No remotes found in the git config file.
+2023-05-23 21:08:35.343 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-05-23 21:08:35.393 [info] > git status -z -uall [31ms]
+2023-05-23 21:08:40.431 [info] > git config --get commit.template [6ms]
+2023-05-23 21:08:40.441 [info] No remotes found in the git config file.
+2023-05-23 21:08:40.460 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+2023-05-23 21:08:40.553 [info] > git status -z -uall [78ms]
+2023-05-23 21:08:45.606 [info] No remotes found in the git config file.
+2023-05-23 21:08:45.608 [info] > git config --get commit.template [19ms]
+2023-05-23 21:08:45.609 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-05-23 21:08:45.631 [info] > git status -z -uall [15ms]
+2023-05-23 21:08:50.674 [info] No remotes found in the git config file.
+2023-05-23 21:08:50.676 [info] > git config --get commit.template [6ms]
+2023-05-23 21:08:50.676 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-05-23 21:08:50.700 [info] > git status -z -uall [20ms]
+2023-05-23 21:08:54.165 [info] > git ls-files --stage -- /home/ec2-user/roles/java/vars/Debian-8.yml [7ms]
+2023-05-23 21:08:54.170 [info] > git ls-files --stage -- /home/ec2-user/roles/java/vars/Amazon.yml [21ms]
+2023-05-23 21:08:54.174 [info] > git ls-files --stage -- /home/ec2-user/roles/java/tasks/main.yml [39ms]
+2023-05-23 21:08:54.178 [info] > git ls-files --stage -- /home/ec2-user/roles/java/meta/main.yml [58ms]
+2023-05-23 21:08:54.182 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/files/index.html [69ms]
+2023-05-23 21:08:54.186 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/vars/main.yml [83ms]
+2023-05-23 21:08:54.195 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/tasks/main.yml [97ms]
+2023-05-23 21:08:54.199 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/meta/main.yml [106ms]
+2023-05-23 21:08:54.203 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/handlers/main.yml [117ms]
+2023-05-23 21:08:54.207 [info] > git ls-files --stage -- /home/ec2-user/roles/apache/defaults/main.yml [136ms]
+2023-05-23 21:08:54.211 [info] > git ls-files --stage -- /home/ec2-user/ansible.cfg [149ms]
+2023-05-23 21:08:54.214 [info] > git ls-files --stage -- /home/ec2-user/inv.yml [166ms]
+2023-05-23 21:08:54.218 [info] > git ls-files --stage -- /home/ec2-user/play.yml [182ms]
+2023-05-23 21:08:54.223 [info] > git cat-file -s d10f0085eea9fbed6c8a332d232ce08eb08e9999 [5ms]
+2023-05-23 21:08:54.224 [info] > git cat-file -s c1dd31d040810c7e3f614dfa38f8a74c8043fede [10ms]
+2023-05-23 21:08:54.224 [info] > git cat-file -s f5299ef36842434161cfb1d82cad1e1781974a2f [14ms]
+2023-05-23 21:08:54.224 [info] > git cat-file -s 6d68187958ce3f879d5ea090b11bb1a55643af3b [17ms]
+2023-05-23 21:08:54.225 [info] > git cat-file -s 8eb7e977e3cac905f892edca16ce03345a7008e0 [22ms]
+2023-05-23 21:08:54.225 [info] > git cat-file -s 14c9df7dec9955523e96c395833570108ca1bf9c [26ms]
+2023-05-23 21:08:54.225 [info] > git cat-file -s 80445151ce75f53af9bc80a4ffc313d45d5841a0 [30ms]
+2023-05-23 21:08:54.225 [info] > git cat-file -s ad62d9d8618152d56e3f61f89bac66515050588f [39ms]
+2023-05-23 21:08:54.226 [info] > git cat-file -s 5f63787ae6758a50ee57908bad30e7c9af6c3692 [44ms]
+2023-05-23 21:08:54.226 [info] > git cat-file -s 9dda1163f2a8b31eed8196708a809916f9ae4834 [48ms]
+2023-05-23 21:08:54.226 [info] > git cat-file -s fd65f3407db8b769cdcba8f3721720a9c389bd91 [53ms]
+2023-05-23 21:08:54.226 [info] > git cat-file -s 8d620e47a65434c2124d00f1ed75ba71f28465a1 [57ms]
+2023-05-23 21:08:54.227 [info] > git ls-files --stage -- /home/ec2-user/roles/java/.gitignore [64ms]
+2023-05-23 21:08:54.231 [info] > git cat-file -s 3079d7484ef2e0f635b361f8d24a3542f9ddc84c [10ms]
+2023-05-23 21:08:54.232 [info] > git cat-file -s bb3860c448a9aa91f53ecb946209a1039898e228 [2ms]
+2023-05-23 21:08:54.339 [info] > git show --textconv :inv.yml [51ms]
+2023-05-23 21:08:54.339 [info] > git show --textconv :ansible.cfg [46ms]
+2023-05-23 21:08:54.339 [info] > git show --textconv :roles/apache/defaults/main.yml [42ms]
+2023-05-23 21:08:54.339 [info] > git show --textconv :roles/apache/handlers/main.yml [38ms]
+2023-05-23 21:08:54.339 [info] > git show --textconv :roles/apache/meta/main.yml [33ms]
+2023-05-23 21:08:54.339 [info] > git show --textconv :roles/apache/tasks/main.yml [29ms]
+2023-05-23 21:08:54.339 [info] > git show --textconv :roles/apache/vars/main.yml [25ms]
+2023-05-23 21:08:54.339 [info] > git show --textconv :roles/apache/files/index.html [21ms]
+2023-05-23 21:08:54.339 [info] > git show --textconv :roles/java/meta/main.yml [17ms]
+2023-05-23 21:08:54.339 [info] > git show --textconv :roles/java/tasks/main.yml [12ms]
+2023-05-23 21:08:54.339 [info] > git show --textconv :roles/java/vars/Amazon.yml [8ms]
+2023-05-23 21:08:54.339 [info] > git show --textconv :roles/java/vars/Debian-8.yml [4ms]
+2023-05-23 21:08:54.357 [info] > git show --textconv :play.yml [6ms]
+2023-05-23 21:08:54.359 [info] > git show --textconv :roles/java/.gitignore [3ms]
+2023-05-23 21:08:55.736 [info] No remotes found in the git config file.
+2023-05-23 21:08:55.737 [info] > git config --get commit.template [10ms]
+2023-05-23 21:08:55.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-05-23 21:08:55.755 [info] > git status -z -uall [13ms]
